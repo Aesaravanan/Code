@@ -7,3 +7,4 @@
 [Saravanan_A.E._LP_Practice_isExactMultiple.pdf](https://github.com/Aesaravanan/Code/files/12023275/Saravanan_A.E._LP_Practice_isExactMultiple.pdf)
 [Saravanan_A.E._LP_Practice_Of5HowManyAreEven.pdf](https://github.com/Aesaravanan/Code/files/12023280/Saravanan_A.E._LP_Practice_Of5HowManyAreEven.pdf)
 [Saravanan_A.E._LP_Practice_Of5HowManyAreOdd.pdf](https://github.com/Aesaravanan/Code/files/12023282/Saravanan_A.E._LP_Practice_Of5HowManyAreOdd.pdf)
+[Saravanan_A.E._LP_Practice_Of5HowManyAreEvenOdd.pdf](https://github.com/Aesaravanan/Code/files/12023477/Saravanan_A.E._LP_Practice_Of5HowManyAreEvenOdd.pdf)
